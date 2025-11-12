@@ -1,0 +1,13 @@
+{
+    "name": "plottcreative/expander",
+    "description": "Text expander plugin. Just like popcorn. Click and pop.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Ewan Lockwood",
+            "email": "ewan@plott.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
