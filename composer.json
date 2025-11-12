@@ -8,6 +8,7 @@
             "email": "ewan@plott.co.uk"
         }
     ],
+    "version": "0.1.1",
     "minimum-stability": "stable",
     "require": {}
 }
